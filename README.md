@@ -4,6 +4,9 @@ Código criado para mostrar os valores que vão entrar em cada célula do diagra
 ## Ideia
 Criei esse pequeno programa para os meus estudos e testes utilizando o Mapa de Veitch-Karnaugh. Na verdade, pode-se dizer que os testes estão sendo realizados no diagrama de Veitch pois segue a estrutura original que Veitch demonstrou na apresentação do diagrama, Karnaugh "aperfeiçou", mudando a forma de representar.
 
+## Código
+O código serve para gerar uma tabela completa onde em cada célula tem o valor das variáveis em Binário.
+
 ## Diagrama de Veitch VS Mapa de Karnaugh
 O Mapa de Karnaugh possui uma aparencia bem diferente da original proposta por Veitch, que a própria ACM (Association For Computing Machinery) acabou aceitando a notação proposta por Karnaugh. O problema é que, ao meu ver, a forma como o Mapa e as saídas são representadas, são mais difíceis de entender do que a forma antiga de Veith. O Diagrama de Veitch segue o mesmo padrão, independentemente da quantidade de saídas, diferente do de Karnaugh que mudam drasticamente para quantidade de saídas, exemplo:
 
